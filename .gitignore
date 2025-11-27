@@ -1,0 +1,11 @@
+# --- ENVIRONNEMENT POETRY ---
+.venv/
+
+# --- NOTEBOOKS JUPYTER ---
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# --- VENV GLOBAL (AU CAS OÙ) ---
+venv/
+env/
+ENV/v
